@@ -12,7 +12,6 @@ Você pode acessar a aplicação gerada e testar suas funcionalidades aqui:
 ---
 
  ## 🚀 Tecnologias Utilizadas
-* <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> **IA Generativa:** Desenvolvimento assistido por Large Language Models (LLMs).
 * <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" /> **Plataforma:** AI Studio para hospedagem e execução.
 * **Conceitos:** Engenharia de Prompt, Desenvolvimento Full-stack assistido e Ética na Computação.
 
