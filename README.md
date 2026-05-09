@@ -5,6 +5,9 @@
  
 ### 📫 Contato & Redes Sociais
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro200508441@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/felipe-de-souza-ferreira-8258953b6](https://www.linkedin.com/in/pedro-alves-9775523a6/))
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:US:15b01ef8-9ae2-4e9d-b6d9-7b19797805d6)
+
 
  
 ---
