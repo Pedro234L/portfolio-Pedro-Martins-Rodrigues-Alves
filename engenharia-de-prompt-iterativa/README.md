@@ -8,9 +8,9 @@ Este repositório documenta experimentos práticos em engenharia de prompt, expl
 Neste experimento, exploramos como o refinamento do prompt altera o tom e a profundidade de uma narrativa. Partimos de um pedido de desculpas simples até uma carta solene destinada a um tribunal real.
 
 ### **Evolução dos Prompts:**
-* **Prompt Inicial:** Escrita de uma carta formal de desculpas de um pirata para um rei após saques cometidos[cite: 209].
-* **Refinamento Literário:** Aplicação de metáforas marítimas e tom de arrependimento profundo ("O mar é vasto e cruel, mas não há abismo mais profundo do que a própria culpa")[cite: 246, 250].
-* **Versão Final (Tribunal):** Uma missiva solene e longa, desenhada para ser lida perante uma corte, selada com cera vermelha simbolizando o sangue do arrependimento[cite: 281, 302].
+* **Prompt Inicial:** Escrita de uma carta formal de desculpas de um pirata para um rei após saques cometidos.
+* **Refinamento Literário:** Aplicação de metáforas marítimas e tom de arrependimento profundo ("O mar é vasto e cruel, mas não há abismo mais profundo do que a própria culpa").
+* **Versão Final (Tribunal):** Uma missiva solene e longa, desenhada para ser lida perante uma corte, selada com cera vermelha simbolizando o sangue do arrependimento.
 
 ---
 
@@ -20,15 +20,15 @@ Este projeto demonstra o processo de **Prompt Encadeado**, onde novos elementos 
 ### **Etapas da Criação:**
 | Etapa | Elemento Adicionado | Observação Técnica |
 | :--- | :--- | :--- |
-| **01** | Astronauta Barroco em Marte | Criação da imagem base com violoncelo[cite: 303]. |
-| **02** | Vulcão em Erupção | Adição de lava e fumaça detalhadas ao fundo[cite: 315]. |
-| **03** | Emblema do Corinthians | Integração realista de um bordado no traje[cite: 327]. |
-| **04** | Bandeira do Brasil | Inserção de uma bandeira tremulando nas pedras[cite: 339]. |
-| **05** | Rosto de Cristiano Ronaldo | Substituição da viseira mantendo os outros elementos[cite: 351]. |
+| **01** | Astronauta Barroco em Marte | Criação da imagem base com violoncelo. |
+| **02** | Vulcão em Erupção | Adição de lava e fumaça detalhadas ao fundo. |
+| **03** | Emblema do Corinthians | Integração realista de um bordado no traje. |
+| **04** | Bandeira do Brasil | Inserção de uma bandeira tremulando nas pedras. |
+| **05** | Rosto de Cristiano Ronaldo | Substituição da viseira mantendo os outros elementos. |
 
 ### **Análise Crítica:**
-* **Taxonomia de Fink:** Avaliamos como a mudança de uma única palavra altera drasticamente a percepção da IA[cite: 324, 348].
-* **Taxonomia de Bloom:** Verificamos se a IA ignorou detalhes ou se manteve o foco e a nitidez nos elementos principais[cite: 317, 341].
+* **Taxonomia de Fink:** Avaliamos como a mudança de uma única palavra altera drasticamente a percepção da IA.
+* **Taxonomia de Bloom:** Verificamos se a IA ignorou detalhes ou se manteve o foco e a nitidez nos elementos principais.
 
 ---
 
