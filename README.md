@@ -44,6 +44,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **batalha modelos prompt xml** | Análise comparativa de LLMs e Engenharia de Prompt estruturada em XML para o desenvolvimento de interfaces Single-Page. | [Ver Projeto](./batalha-modelos-prompt-xml/) |
 | **engenharia reversa ia** | Análise de Engenharia Reversa e os limites éticos no desenvolvimento assistido por Inteligência Artificial. | [Ver Projeto](./engenharia-reversa-ia/) |
 | **Produto Mínimo Viável(MVP+)** | Aplicação de QR Code customizáveis desenvolvida via engenharia reversa assistida por IA, com foco em acessibilidade universal e persistência de dados em tempo real via Firebase. | [Ver Projeto](./Produto-Mínimo-Viável(MVP+)/) |
+| **gestao ferias nocode** | Sistema de governança e gestão de férias desenvolvido em Bubble (No-Code), com foco em automação de workflows, regras de privacidade para proteção de dados sensíveis e uma estratégia de portabilidade via Data API para garantir a soberania das informações. | [Ver Projeto](./gestao-ferias-nocode/) |
 
 
 ---
@@ -53,3 +54,6 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/qr-transformer-nocode/`: Documentação da engenharia reversa e aplicação de QR Codes customizáveis com foco em acessibilidade (Vlibras e suporte para daltônicos).
+- `/batalha-modelos-xml/`: Relatório técnico e análise comparativa entre LLMs (Claude, GPT, etc.) utilizando prompts estruturados em XML.
+- `/gestao-ferias-bubble/`: Pasta contendo o sistema de governança e gestão de férias, incluindo as regras de privacidade e fluxos de automação no-code.  
