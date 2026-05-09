@@ -43,6 +43,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **classificar vies visual ia** | Modelo de Visão Computacional para identificação de perfis de usuários com foco em auditoria de vieses e estereótipos. | [Ver Projeto](./classificador-vies-visual-ia/) |
 | **batalha modelos prompt xml** | Análise comparativa de LLMs e Engenharia de Prompt estruturada em XML para o desenvolvimento de interfaces Single-Page. | [Ver Projeto](./batalha-modelos-prompt-xml/) |
 | **engenharia reversa ia** | Análise de Engenharia Reversa e os limites éticos no desenvolvimento assistido por Inteligência Artificial. | [Ver Projeto](./engenharia-reversa-ia/) |
+| **Produto Mínimo Viável(MVP+)** | Aplicação de QR Code customizáveis desenvolvida via engenharia reversa assistida por IA, com foco em acessibilidade universal e persistência de dados em tempo real via Firebase. | [Ver Projeto](./Produto-Mínimo-Viável(MVP+)/) |
+
 
 ---
  
