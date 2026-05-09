@@ -41,6 +41,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **engenharia de prompt iterativa** | Engenharia de Prompt e Análise por Taxonomias para experimentação em IAs Generativas. | [Ver Projeto](./engenharia-de-prompt-iterativa/) |
 | **classificar vies visual ia** | Modelo de Visão Computacional para identificação de perfis de usuários com foco em auditoria de vieses e estereótipos. | [Ver Projeto](./classificador-vies-visual-ia/) |
+| **batalha modelos prompt xml** | Análise comparativa de LLMs e Engenharia de Prompt estruturada em XML para o desenvolvimento de interfaces Single-Page. | [Ver Projeto](./batalha-modelos-prompt-xml/) |
+| **engenharia reversa ia** | Análise de Engenharia Reversa e os limites éticos no desenvolvimento assistido por Inteligência Artificial. | [Ver Projeto](./engenharia-reversa-ia/) |
 
 ---
  
