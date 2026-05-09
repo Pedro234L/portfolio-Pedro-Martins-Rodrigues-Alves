@@ -27,4 +27,4 @@ Você pode testar este experimento funcionando em tempo real aqui:
 3. [cite_start]O sistema exibirá a probabilidade de classificação com base nos padrões visuais identificados. [cite: 386]
 
 ---
-[Voltar ao início](https://github.com/Lipe0921/Lipe0921)
+[Voltar ao início](https://github.com/Pedro234L/Pedro234L)
