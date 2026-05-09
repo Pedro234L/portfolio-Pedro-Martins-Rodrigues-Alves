@@ -34,17 +34,14 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **engenharia de prompt iterativa** | Engenharia de Prompt e Análise por Taxonomias para experimentação em IAs Generativas. | [Ver Projeto](./engenharia-de-prompt-iterativa/) |
- 
+
+
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+| **engenharia de prompt iterativa** | Engenharia de Prompt e Análise por Taxonomias para experimentação em IAs Generativas. | [Ver Projeto](./engenharia-de-prompt-iterativa/) |
+| **classificar vies visual ia ** | Modelo de Visão Computacional para identificação de perfis de usuários com foco em auditoria de vieses e estereótipos.. | [Ver Projeto](./classificar-vies-visual-ia/) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
