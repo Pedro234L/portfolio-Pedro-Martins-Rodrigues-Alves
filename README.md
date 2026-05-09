@@ -40,7 +40,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **engenharia de prompt iterativa** | Engenharia de Prompt e Análise por Taxonomias para experimentação em IAs Generativas. | [Ver Projeto](./engenharia-de-prompt-iterativa/) |
-| **classificar vies visual ia ** | Modelo de Visão Computacional para identificação de perfis de usuários com foco em auditoria de vieses e estereótipos.. | [Ver Projeto](./classificar-vies-visual-ia/) |
+| **classificar vies visual ia** | Modelo de Visão Computacional para identificação de perfis de usuários com foco em auditoria de vieses e estereótipos.. | [Ver Projeto](./classificar-vies-visual-ia/) |
 
 ---
  
