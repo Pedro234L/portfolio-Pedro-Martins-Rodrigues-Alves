@@ -8,9 +8,9 @@ Este repositório documenta experimentos práticos em engenharia de prompt, expl
 Neste experimento, exploramos como o refinamento do prompt altera o tom e a profundidade de uma narrativa. Partimos de um pedido de desculpas simples até uma carta solene destinada a um tribunal real.
 
 ### **Evolução dos Prompts:**
-* [cite_start]**Prompt Inicial:** Escrita de uma carta formal de desculpas de um pirata para um rei após saques cometidos[cite: 209].
-* [cite_start]**Refinamento Literário:** Aplicação de metáforas marítimas e tom de arrependimento profundo ("O mar é vasto e cruel, mas não há abismo mais profundo do que a própria culpa")[cite: 246, 250].
-* [cite_start]**Versão Final (Tribunal):** Uma missiva solene e longa, desenhada para ser lida perante uma corte, selada com cera vermelha simbolizando o sangue do arrependimento[cite: 281, 302].
+* **Prompt Inicial:** Escrita de uma carta formal de desculpas de um pirata para um rei após saques cometidos[cite: 209].
+* **Refinamento Literário:** Aplicação de metáforas marítimas e tom de arrependimento profundo ("O mar é vasto e cruel, mas não há abismo mais profundo do que a própria culpa")[cite: 246, 250].
+* **Versão Final (Tribunal):** Uma missiva solene e longa, desenhada para ser lida perante uma corte, selada com cera vermelha simbolizando o sangue do arrependimento[cite: 281, 302].
 
 ---
 
