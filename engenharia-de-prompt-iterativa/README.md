@@ -20,15 +20,15 @@ Este projeto demonstra o processo de **Prompt Encadeado**, onde novos elementos 
 ### **Etapas da Criação:**
 | Etapa | Elemento Adicionado | Observação Técnica |
 | :--- | :--- | :--- |
-| **01** | Astronauta Barroco em Marte | [cite_start]Criação da imagem base com violoncelo[cite: 303]. |
-| **02** | Vulcão em Erupção | [cite_start]Adição de lava e fumaça detalhadas ao fundo[cite: 315]. |
-| **03** | Emblema do Corinthians | [cite_start]Integração realista de um bordado no traje[cite: 327]. |
-| **04** | Bandeira do Brasil | [cite_start]Inserção de uma bandeira tremulando nas pedras[cite: 339]. |
-| **05** | Rosto de Cristiano Ronaldo | [cite_start]Substituição da viseira mantendo os outros elementos[cite: 351]. |
+| **01** | Astronauta Barroco em Marte | Criação da imagem base com violoncelo[cite: 303]. |
+| **02** | Vulcão em Erupção | Adição de lava e fumaça detalhadas ao fundo[cite: 315]. |
+| **03** | Emblema do Corinthians | Integração realista de um bordado no traje[cite: 327]. |
+| **04** | Bandeira do Brasil | Inserção de uma bandeira tremulando nas pedras[cite: 339]. |
+| **05** | Rosto de Cristiano Ronaldo | Substituição da viseira mantendo os outros elementos[cite: 351]. |
 
 ### **Análise Crítica:**
-* [cite_start]**Taxonomia de Fink:** Avaliamos como a mudança de uma única palavra altera drasticamente a percepção da IA[cite: 324, 348].
-* [cite_start]**Taxonomia de Bloom:** Verificamos se a IA ignorou detalhes ou se manteve o foco e a nitidez nos elementos principais[cite: 317, 341].
+* **Taxonomia de Fink:** Avaliamos como a mudança de uma única palavra altera drasticamente a percepção da IA[cite: 324, 348].
+* **Taxonomia de Bloom:** Verificamos se a IA ignorou detalhes ou se manteve o foco e a nitidez nos elementos principais[cite: 317, 341].
 
 ---
 
@@ -36,8 +36,6 @@ Este projeto demonstra o processo de **Prompt Encadeado**, onde novos elementos 
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
