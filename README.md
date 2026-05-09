@@ -38,7 +38,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **engenharia de prompt iterativa** | Engenharia de Prompt e Análise por Taxonomias para experimentação em IAs Generativas. | [Ver Projeto](./engenharia-de-prompt-iterativa/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
